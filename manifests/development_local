@@ -1,0 +1,13 @@
+<VirtualHost *:80>
+	ServerName development.local
+	DocumentRoot /vagrant/src/public
+
+	SetEnv APPLICATION_ENV "development"
+
+	<Directory /vagrant/src/public>
+		DirectoryIndex index.php
+		AllowOverride All
+		Order allow,deny
+		Allow from all
+	</Directory>
+</VirtualHost>

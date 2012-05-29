@@ -1,0 +1,21 @@
+{
+  "description": "UNKNOWN",
+  "types": [
+
+  ],
+  "checksums": {
+    "README": "4cbb2d56189976bfef1356c2e6633dc8",
+    "Modulefile": "97e11c570acad27e6547991d8c003512",
+    "manifests/init.pp": "74f2983d7b859f0807477bf12a802d4c"
+  },
+  "summary": "UNKNOWN",
+  "source": "UNKNOWN",
+  "author": "crayfish",
+  "version": "1.0.0",
+  "project_page": "UNKNOWN",
+  "license": "UNKNOWN",
+  "dependencies": [
+
+  ],
+  "name": "subversion"
+}
